@@ -1,0 +1,836 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('images/client-doing-hair-cut-2-min.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 876px;
+}
+
+.u-section-1 .u-text-1 {
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  font-size: 5.625rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 220px 0 0 650px;
+}
+
+.u-section-1 .u-text-2 {
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 9px 17px 0 1189px;
+}
+
+.u-section-1 .u-btn-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 2px;
+  font-size: 1rem;
+  background-image: none;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 43px 0 0 auto;
+  padding: 18px 42px 18px 41px;
+}
+
+.u-section-1 .u-text-3 {
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 45px 0 60px auto;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  margin-left: auto;
+  padding: 0;
+}
+
+@media (max-width: 1399px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 525px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 525px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 674px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 325px;
+    font-size: 3.4375rem;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 325px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    background-position: 50% 50%, 28.87% 50%;
+    background-size: auto 115%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 556px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 105px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 105px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    background-position: 50% 50%, 2.15% 50%;
+    background-size: cover;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 586px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 138px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 296px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 50% 50%, 14.02% 50%;
+    background-size: cover, cover;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 369px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 96px;
+  }
+} .u-section-2 {
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to bottom, rgba(26, 26, 26, 1), rgba(26, 26, 26, 1));
+  background-size: cover;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 1162px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 55px auto 0 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 700px;
+  min-height: 325px;
+  height: auto;
+  background-image: url("images/25b88aa63c4403dc367ecaf40d56d85596f1842bf431dae807009d5a5bbe3b022377b22c5e9ef4c1ca833011251a4ffb02928e26f65cf586bd143b_1280.jpg");
+  margin: 104px auto 0 0;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-group-2 {
+  min-height: 70px;
+  width: 400px;
+  height: auto;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0 30px;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 0 auto;
+}
+
+.u-section-2 .u-image-2 {
+  width: 700px;
+  min-height: 325px;
+  height: auto;
+  background-image: url("https://pixabay.com/get/g4f0c083cb9fe0ada5357920c8c1066717f07b9eb902d1af86e04ee29df41d04a4584ed138d39ebdd19bca0f3f45b63a5994229948abc66a797e7d95028a1affd_1280.jpg");
+  background-position: 50% 50%;
+  margin: -325px 0 0 auto;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 0;
+}
+
+.u-section-2 .u-group-4 {
+  min-height: 70px;
+  width: 400px;
+  height: auto;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 0 30px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 0 auto 0 83px;
+}
+
+.u-section-2 .u-image-3 {
+  width: 700px;
+  min-height: 325px;
+  height: auto;
+  background-image: url("images/a52139f41e33fde0be13f20da669c9ed34341a2e6e3f7127b874f6f055b69829a067d0d51e3a616a71c95f0acdf3ab02bffc629ce9198015b95c99_1280.jpg");
+  background-position: 50% 50%;
+  margin: 45px auto 0 0;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 0;
+}
+
+.u-section-2 .u-group-6 {
+  min-height: 70px;
+  width: 400px;
+  height: auto;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-container-layout-6 {
+  padding: 0 30px;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 0 auto;
+}
+
+.u-section-2 .u-image-4 {
+  width: 700px;
+  min-height: 325px;
+  height: auto;
+  background-image: url("images/73f7fa722ce23d7eeb721ac9fa11255dd36d2f30abf501f39ac1ace45d5cac881928e3891cbe8cd6f75e705a9b0f8a9ae115e7bd5fe147d16c23a3_1280.jpg");
+  background-position: 50% 50%;
+  margin: -325px 0 60px auto;
+}
+
+.u-section-2 .u-container-layout-7 {
+  padding: 0;
+}
+
+.u-section-2 .u-group-8 {
+  min-height: 70px;
+  width: 400px;
+  height: auto;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-container-layout-8 {
+  padding: 0 30px;
+}
+
+.u-section-2 .u-text-5 {
+  margin: 0 auto 0 83px;
+}
+
+@media (max-width: 1399px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1012px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 497px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 552px;
+    height: auto;
+  }
+
+  .u-section-2 .u-group-2 {
+    height: auto;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-top: 552px;
+    height: auto;
+  }
+
+  .u-section-2 .u-group-4 {
+    height: auto;
+  }
+
+  .u-section-2 .u-image-3 {
+    margin-top: 552px;
+    height: auto;
+  }
+
+  .u-section-2 .u-group-6 {
+    height: auto;
+  }
+
+  .u-section-2 .u-image-4 {
+    margin-top: 552px;
+    height: auto;
+  }
+
+  .u-section-2 .u-group-8 {
+    height: auto;
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 915px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 361px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 616px;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-top: 616px;
+  }
+
+  .u-section-2 .u-image-3 {
+    margin-top: 616px;
+  }
+
+  .u-section-2 .u-image-4 {
+    margin-top: 616px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 809px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 281px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 591px;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-top: 591px;
+  }
+
+  .u-section-2 .u-image-3 {
+    margin-top: 591px;
+  }
+
+  .u-section-2 .u-image-4 {
+    margin-top: 591px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1505px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 1206px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 540px;
+    margin-top: -69px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 540px;
+    margin-top: -69px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-3 {
+    width: 540px;
+    margin-top: -69px;
+  }
+
+  .u-section-2 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-4 {
+    width: 540px;
+    margin-top: -69px;
+  }
+
+  .u-section-2 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1118px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 649px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    margin-top: 317px;
+  }
+
+  .u-section-2 .u-group-2 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 340px;
+    margin-top: 317px;
+  }
+
+  .u-section-2 .u-group-4 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-image-3 {
+    width: 340px;
+    margin-top: 317px;
+  }
+
+  .u-section-2 .u-group-6 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-image-4 {
+    width: 340px;
+    margin-top: 317px;
+  }
+
+  .u-section-2 .u-group-8 {
+    width: 340px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 790px;
+}
+
+.u-section-3 .u-text-1 {
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 60px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 12px auto 0;
+}
+
+.u-section-3 .u-list-1 {
+  grid-template-rows: repeat(1, auto);
+  margin-top: 51px;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-repeater-1 {
+  grid-template-columns: repeat(3, calc(33.3333% - 20px));
+  min-height: 437px;
+  grid-auto-columns: calc(33.3333% - 20px);
+  --gap: 30px;
+}
+
+.u-section-3 .u-image-1 {
+  background-image: url("images/stylish-man-sitting-barbershop_1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px 0 0;
+}
+
+.u-section-3 .u-group-1 {
+  min-height: 138px;
+  margin-top: 0;
+  margin-bottom: 0;
+  height: auto;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 25px;
+}
+
+.u-section-3 .u-text-3 {
+  --animation-custom_in-scale: 0.3;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-text-4 {
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 12px auto 0 0;
+}
+
+.u-section-3 .u-image-2 {
+  background-image: url("images/woman-combing-stylish-man_23-214.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px 0 0;
+}
+
+.u-section-3 .u-group-2 {
+  min-height: 138px;
+  margin-top: 0;
+  margin-bottom: 0;
+  height: auto;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 25px;
+}
+
+.u-section-3 .u-text-5 {
+  --animation-custom_in-scale: 0.3;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-text-6 {
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 12px auto 0 0;
+}
+
+.u-section-3 .u-image-3 {
+  background-image: url("images/stylish-man-sitting-barbershop_11.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-5 {
+  padding: 30px 0 0;
+}
+
+.u-section-3 .u-group-3 {
+  min-height: 138px;
+  margin-top: 0;
+  margin-bottom: 0;
+  height: auto;
+}
+
+.u-section-3 .u-container-layout-6 {
+  padding: 25px;
+}
+
+.u-section-3 .u-text-7 {
+  --animation-custom_in-scale: 0.3;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  font-size: 1.5rem;
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-text-8 {
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 12px auto 0 0;
+}
+
+.u-section-3 .u-image-4 {
+  background-image: url("images/front-view-plus-size-man-working.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-7 {
+  padding: 30px 0 0;
+}
+
+.u-section-3 .u-group-4 {
+  min-height: 138px;
+  margin-top: 0;
+  margin-bottom: 0;
+  height: auto;
+}
+
+.u-section-3 .u-container-layout-8 {
+  padding: 25px;
+}
+
+.u-section-3 .u-text-9 {
+  --animation-custom_in-scale: 0.3;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  font-size: 1.5rem;
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-text-10 {
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 12px auto 0 0;
+}
+
+.u-section-3 .u-image-5 {
+  background-image: url("images/man-getting-his-hair-washed-barb.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-9 {
+  padding: 30px 0 0;
+}
+
+.u-section-3 .u-group-5 {
+  min-height: 138px;
+  margin-top: 0;
+  margin-bottom: 0;
+  height: auto;
+}
+
+.u-section-3 .u-container-layout-10 {
+  padding: 25px;
+}
+
+.u-section-3 .u-text-11 {
+  --animation-custom_in-scale: 0.3;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  font-size: 1.5rem;
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-text-12 {
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 12px auto 0 0;
+}
+
+.u-section-3 .u-image-6 {
+  background-image: url("images/side-view-man-getting-haircut_23.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-11 {
+  padding: 30px 0 0;
+}
+
+.u-section-3 .u-group-6 {
+  min-height: 138px;
+  margin-top: 0;
+  margin-bottom: 0;
+  height: auto;
+}
+
+.u-section-3 .u-container-layout-12 {
+  padding: 25px;
+}
+
+.u-section-3 .u-text-13 {
+  --animation-custom_in-scale: 0.3;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  font-size: 1.5rem;
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-text-14 {
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 12px auto 0 0;
+}
+
+.u-section-3 .u-gallery-nav-1 {
+  position: absolute;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.u-section-3 .u-gallery-nav-2 {
+  position: absolute;
+  right: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.u-section-3 .u-text-15 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 30px auto 60px;
+}
+
+.u-section-3 .u-btn-1 {
+  padding: 0;
+}
+
+@media (max-width: 1399px) {
+  .u-section-3 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-3 .u-group-2 {
+    height: auto;
+  }
+
+  .u-section-3 .u-group-3 {
+    height: auto;
+  }
+
+  .u-section-3 .u-group-4 {
+    height: auto;
+  }
+
+  .u-section-3 .u-group-5 {
+    height: auto;
+  }
+
+  .u-section-3 .u-group-6 {
+    height: auto;
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-repeater-1 {
+    grid-template-columns: repeat(3, calc(33.333333333333336% - 20px));
+    grid-auto-columns: calc(33.333333333333336% - 20px);
+    grid-gap: 30px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 15px));
+    grid-auto-columns: calc(50% - 15px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 764px;
+  }
+
+  .u-section-3 .u-repeater-1 {
+    grid-template-columns: 100%;
+    grid-auto-columns: calc(100% - 0px);
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-10 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-12 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 770px;
+  }
+
+  .u-section-3 .u-repeater-1 {
+    grid-auto-columns: 100%;
+  }
+}
