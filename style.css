@@ -1,0 +1,82 @@
+/* 1. Reset básico para que todo se vea igual en todos los navegadores */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #0f0f0f; /* Un gris muy oscuro, estilo Dark Mode */
+    color: #ffffff;
+}
+
+/* 2. Navegación */
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    background: #1a1a1a;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    color: #00d4ff; /* Un azul cyan tipo Unreal/Tech */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* 3. Sección Principal (Hero) */
+.hero {
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(45deg, #1a1a1a, #2c2c2c);
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+/* 4. Grid de Proyectos (Aquí es donde luce lo visual) */
+.grid-proyectos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 40px;
+}
+
+.card {
+    background: #1e1e1e;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease; /* Pequeña animación técnica */
+}
+
+.card:hover {
+    transform: translateY(-10px); /* El famoso efecto de elevarse */
+    border: 1px solid #00d4ff;
+}
+
+.card img {
+    width: 100%;
+    display: block;
+}
+
+.card h3 {
+    padding: 15px;
+    text-align: center;
+}
